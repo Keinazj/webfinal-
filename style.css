@@ -31,7 +31,17 @@ body{
     padding-top: 15%;
     font-size: 200%;
     color: aliceblue;
+}
+.seconddiv{
+    text-align: left;
+    color: aliceblue;
+}
+.boxlabel {
+    display: block;
+    margin-bottom: 10px;
+    
+    
 
 }
-   
+
 
