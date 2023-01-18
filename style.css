@@ -1,0 +1,26 @@
+
+html{
+
+    background: linear-gradient(rgba(170, 157, 255, 1), rgb(90, 74, 163));
+
+    height: 100%;
+ 
+}
+
+body{ 
+    margin-top: 200px;
+    margin-left: 550px;
+
+}
+.bigpart{
+    
+    height: 500px;
+    width: 400px;
+    background-image: (rgba(35, 28, 45, 0.899));
+    border-radius: 20px;
+    box-shadow: 2px 2px 13px 2px  rgb(50, 51, 52);
+   
+
+}
+   
+
