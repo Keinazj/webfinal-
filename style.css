@@ -35,13 +35,32 @@ body{
 .seconddiv{
     text-align: left;
     color: aliceblue;
+   
 }
 .boxlabel {
     display: block;
     margin-bottom: 10px;
-    
-    
-
+    margin-left: 10%;
 }
 
+.texts{
+    margin-left: 10%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
+.text2{
+    margin-left: 10%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+
+}
+.amount{
+    margin-left: 20%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.input{
+    background-color: rgba(170, 157, 255, 0.222);
+
+}
