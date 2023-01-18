@@ -46,11 +46,14 @@ body{
 .texts{
     margin-left: 10%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100%;
+    
 }
 
 .text2{
     margin-left: 10%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100%;
    
 
 }
@@ -60,7 +63,7 @@ body{
     
 }
 
-.input{
+.billtotal{
     background-color: rgba(170, 157, 255, 0.222);
 
 }
